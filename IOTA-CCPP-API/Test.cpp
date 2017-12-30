@@ -16,7 +16,7 @@ int main()
 	cout << iota.getNeighbors() << endl;
 	
 	cout << iota.getBalance("RWDUOYMHMXRRWPMSR9ZSMGSVEOBKALBRIXCQWVCZQ9QINNKPOQGKROBXCWRTBLGYABINNNLVYEZXZ9999", 10) << endl;
-
+	
 	
 	cout << iota.getTransactionsToApprove(30) << endl;
 
